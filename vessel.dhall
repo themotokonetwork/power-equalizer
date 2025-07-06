@@ -1,5 +1,5 @@
 {
   dependencies = [ "base", "cap", "accountid", "canistergeek", "fuzz" ],
-  compiler = Some "0.8.1"
+  compiler = Some "0.10.4"
 }
 
